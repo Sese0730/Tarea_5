@@ -1,7 +1,7 @@
 body {
     margin: 0;
     background: #0d0d0d;
-    color: #fff;
+    color: #d8c0c0;
     font-family: 'Rajdhani', sans-serif;
     display: flex;
     justify-content: center;
@@ -23,16 +23,16 @@ body {
 
 .glow-text {
     font-family: 'Orbitron', sans-serif;
-    color: #0ff;
-    text-shadow: 0 0 10px #0ff, 0 0 20px #0ff;
+    color: rgb(26, 153, 153);
+    text-shadow: 0 0 10px rgb(55, 167, 167), 0 0 20px rgb(85, 170, 170);
     letter-spacing: 5px;
 }
 
 .image-container img {
     width: 100%;
     border-radius: 10px;
-    border: 2px solid #f0f;
-    box-shadow: 0 0 15px #f0f;
+    border: 2px solid rgb(145, 49, 145);
+    box-shadow: 0 0 15px rgb(139, 45, 139);
     margin: 1rem 0;
 }
 
